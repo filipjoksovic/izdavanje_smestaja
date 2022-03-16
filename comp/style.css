@@ -1,0 +1,5 @@
+.carousel-image{
+    max-height: 20rem;
+    object-fit: contain;
+    aspect-ratio: 1/1;
+}
